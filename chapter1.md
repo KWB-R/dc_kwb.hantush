@@ -37,7 +37,7 @@ library(kwb.hantush)
 ```{r}
 # SCT written with testwhat: https://github.com/datacamp/testwhat/wiki
 
-test_function("library", args = "kwb.hantush",
+test_function("library", args = "package=kwb.hantush",
               not_called_msg = "You didn't call `library()`!",
               incorrect_msg = "You didn't call `library(package = ...)` with the correct argument, `kwb.hantush`.")
 
