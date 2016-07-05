@@ -37,7 +37,7 @@ library(kwb.hantush)
 ```{r}
 # SCT written with testwhat: https://github.com/datacamp/testwhat/wiki
 
-test_function("library", args = "package=kwb.hantush",
+test_function("library", args = "kwb.hantush",
               not_called_msg = "You didn't call `library()`!")
 
 test_output_contains("kwb.hantush" %in% loadedNamespaces(), 
