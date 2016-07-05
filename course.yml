@@ -1,7 +1,7 @@
 title            : Groundwater mounding based on Hantush equation
-author_field     : <a href="https://github.com/mrustl">Michael Rustler</a>
+author_field     : Michael Rustler
 description      : In this course you will lern how to use the R package <a href="http://www.rdocumentation.org/packages/kwb.hantush/versions/0.2.1">kwb.hantush</a>, which solves the analytical equation developed by Hantush 1967. It calculates the groundwater table rise due to infiltration based on both, infiltration basin and aquifer properties. 
-author_bio       : Michael Rustler works as data scientist at the <a href="http://kompetenz-wasser.de/Kompetenzzentrum-Wasser-Berlin.1.0.html?&L=1">Kompetenzzentrum Wasser Berlin gGmbH</a>, a non-profit water research organisation. We are mainly performing end-user driven research projects in the urban water cycle in close cooperation with water suppliers.
+author_bio       : <a href="https://github.com/mrustl">Michael Rustler</a> works as data scientist at the <a href="http://kompetenz-wasser.de/Kompetenzzentrum-Wasser-Berlin.1.0.html?&L=1">Kompetenzzentrum Wasser Berlin gGmbH</a>, a non-profit water research organisation. We are mainly performing end-user driven research projects in the urban water cycle in close cooperation with water suppliers.
 university       : <a href="http://kompetenz-wasser.de/Kompetenzzentrum-Wasser-Berlin.1.0.html?&L=1">Kompetenzzentrum Wasser Berlin gGmbH</a>
 difficulty_level : 2
 time_needed      : 1 hour
