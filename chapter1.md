@@ -30,14 +30,14 @@ library(_____)
 *** =solution
 ```{r}
 #load the R package kwb.hantush using library()
-library("kwb.hantush")
+library(kwb.hantush)
 ```
 
 *** =sct
 ```{r}
 # SCT written with testwhat: https://github.com/datacamp/testwhat/wiki
 
-test_function("library", args = "kwb.hantush",
+test_function("library", args = "package",
               not_called_msg = "You didn't call `library()`!",
               incorrect_msg = "You didn't call `library(package = ...)` with the correct argument, `kwb.hantush`.")
 
